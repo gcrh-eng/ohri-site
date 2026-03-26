@@ -118,9 +118,15 @@ Licenciados sob **Creative Commons Atribuição 4.0 (CC BY 4.0)**
 
 Para uso de dados ou documentos:
 
+### Citação genérica
+
 > OHRI — Observatório Hidrológico do Riacho Itararé.  
 > Programa da GCRH Engenharia.  
 > Base de dados e estudos técnicos. Teresina, 2026.
+
+### Citação específica
+
+> Cada documento tem sua autoria, título e elementos de referência.
 
 ---
 
