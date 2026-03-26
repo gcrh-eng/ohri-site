@@ -179,10 +179,9 @@ EM CONSTRUÇÃO
 
 ## 👤 Responsável técnico
 
-Dr. Guilherme C. R. Neto
+Dr. Guilherme C. R. Neto  
 Engenharia e Modelagem Hidrológica  
 GCRH Engenharia
-gcrhengenharia@gmail.com
 
 ---
 
