@@ -22,10 +22,12 @@ Trata-se de uma versão em construção, com inclusão progressiva de:
 ## 🔄 Status
 
 ### • Projeto 01 - Revisão sistemática de literatura
-Em fase de planejamento e montagem de equipe técnica
+2026_03_26 - Em fase de planejamento e montagem de equipe técnica
+2026_04_06 - Avanço na concepção da metodologia
 
 ### • Projeto 02 - Bacias hidrográfica do riacho Itararé: contorno e hidrografia gerados por diferentes modelos digitais de elevação
-Produtos amadurecidos e publicados, relatório final em sua primeira versão publicado.
+2026_03_26 - Produtos amadurecidos e publicados, relatório final em sua primeira versão publicado.
+2026_04_06 - Segunda versão do relatório publicado, com correção e ajustes de citações e referências
 
 ### • Projeto 03 - 
 
