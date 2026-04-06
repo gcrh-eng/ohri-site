@@ -30,6 +30,10 @@ Estruturar uma base consistente de conhecimento técnico sobre a dinâmica hidro
 ````
 ohri/
 │
+├── docs/
+│ ├── CITACOES.md # infromaççoes sobre como realizar a citação e montar a referência para arquivos do repositório
+│ ├── # outros arquivos institucionais
+|
 ├── v1.0_2026/
 │ ├── artigos/ # artigos técnicos publicados
 │ ├── relatorios/ # relatórios técnicos completos
